@@ -2,7 +2,9 @@
 
 ### BLOQUE 1: FUNDAMENTOS Y HERRAMIENTAS
 
-- Comprobar que existe conexión a un nodo.
+- Comprobar que existe conexión a un nodo.  
+Dentro de la ruta donde esta desplegado truffle y web3 se ejecuta la consola  
+![alt text](Imagenes/ConexionGanache.jpg)
 
 Para saber si esta escuchando la blockchain de Ganache  
 ![alt text](Imagenes/isListenning.jpg)
@@ -21,7 +23,7 @@ Para obtener todas las cuentas de Ganache
 
 - Número de bloque en el que se encuentra la blockchain en ese instante. ¿Por qué?
 
-Ultimo Bloque (Latest)  
+Ultimo Bloque (Latest), en mi caso el último es el 32  
 ![alt text](Imagenes/getBlock.jpg)
 
 - Dirección del host de la blockchain.  
