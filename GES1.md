@@ -4,8 +4,7 @@
 
 - Comprobar que existe conexión a un nodo.  
 Dentro de la ruta donde esta desplegado truffle y web3 se ejecuta la consola  
-![alt text](Imagenes/ConexionGanache.jpg)
-
+![alt text](Imagenes/ConexionGanache.jpg)  
 Para saber si esta escuchando la blockchain de Ganache  
 ![alt text](Imagenes/isListenning.jpg)
 
