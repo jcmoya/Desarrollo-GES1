@@ -31,10 +31,10 @@ Ultimo Bloque (Latest)
 
 #### Solidity con Remix IDE
 
-1 Ir a Remix IDE
-2 Crear una nuevo contrato y Escribir el Codigo
-3 Conectar con el servidor de Ganache ~http://localhost:7545~
-4 Seleccionar una de las cuentas con Ethers
-5 Compilar el código del Smart Contract y Desplegarlo
+1. Ir a Remix IDE
+2. Crear una nuevo contrato y Escribir el Codigo
+3. Conectar con el servidor de Ganache http://localhost:7545
+4. Seleccionar una de las cuentas con Ethers
+5. Compilar el código del Smart Contract y Desplegarlo
 
 ![alt text](Imagenes/deployedContract_REMIX.jpg)
