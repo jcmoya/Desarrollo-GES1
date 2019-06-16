@@ -4,7 +4,7 @@
 
 - Comprobar que existe conexión a un nodo.
 
-Para saber si esta escuchando la blockchain de Ganache
+Para saber si esta escuchando la blockchain de Ganache  
 ![alt text](Imagenes/isListenning.jpg)
 
 
@@ -16,16 +16,15 @@ Para saber si esta escuchando la blockchain de Ganache
 
 - Address de la cuenta número 3 de Ganache o ganache-cli.
 
-Para obtener todas las cuentas de Ganache
+Para obtener todas las cuentas de Ganache  
 ![alt text](Imagenes/getAccounts.jpg)
 
 - Número de bloque en el que se encuentra la blockchain en ese instante. ¿Por qué?
 
-Ultimo Bloque (Latest)
+Ultimo Bloque (Latest)  
 ![alt text](Imagenes/getBlock.jpg)
 
-- Dirección del host de la blockchain.
-
+- Dirección del host de la blockchain.  
 ![alt text](Imagenes/currentProvider.jpg)
 
 - Acceda a ethgasstation y convierta el precio del gas en ese instante a Ether.
