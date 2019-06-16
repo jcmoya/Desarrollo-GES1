@@ -11,17 +11,13 @@ Para saber si esta escuchando la blockchain de Ganache
 
 - Comprobar si está o no sincronizando nuevos bloques. ¿Por qué?
 
-- Balance de la cuenta que ha desplegado el contrato en la blockchain.
-
+- Balance de la cuenta que ha desplegado el contrato en la blockchain.  
 ![alt text](Imagenes/getBalance.jpg)
 
-- Address de la cuenta número 3 de Ganache o ganache-cli.
+- Address de la cuenta número 3 de Ganache o ganache-cli.  
+Para obtener todas las cuentas de Ganache  ![alt text](Imagenes/getAccounts.jpg)
 
-Para obtener todas las cuentas de Ganache  
-![alt text](Imagenes/getAccounts.jpg)
-
-- Número de bloque en el que se encuentra la blockchain en ese instante. ¿Por qué?
-
+- Número de bloque en el que se encuentra la blockchain en ese instante. ¿Por qué?  
 Ultimo Bloque (Latest), en mi caso el último es el 32  
 ![alt text](Imagenes/getBlock.jpg)
 
