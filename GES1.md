@@ -14,3 +14,5 @@
 - Dirección del host de la blockchain.
 - Acceda a ethgasstation y convierta el precio del gas en ese instante a Ether.
 
+
+![alt text]Imagenes/deployedContract_REMIX.jpg
