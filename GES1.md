@@ -12,7 +12,7 @@ Para saber si esta escuchando la blockchain de Ganache
 
 - Comprobar si está o no sincronizando nuevos bloques. ¿Por qué?  
 AL estar usando funciones mediante el terminal, estoy haciendo llamadas asincronas en un momento dado, no permanentemente. Por esa razón al ejecutar, es false:  
-![alt text](Imagenes/isSinc.jpg)  
+![alt text](Imagenes/isSinc.JPG)  
 
 - Balance de la cuenta que ha desplegado el contrato en la blockchain.  
 ![alt text](Imagenes/getBalance.jpg)
